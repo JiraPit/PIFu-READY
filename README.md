@@ -17,7 +17,7 @@ visit the original research:
 
 2. Clone this repository and ```cd``` into it
 ```
-git clone https://github.com/JiraPit/PIFuR-3DHumanDigitization.git
+git clone https://github.com/JiraPit/PIFuReady.git
 ```
 ```
 cd PIFuR-3DHumanDigitization
